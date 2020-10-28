@@ -3,7 +3,7 @@
 """
 ***************************************************************************
 *                                                                         *
-*   GeoTIFF to XYT                                                        *
+*   Convert GeoTIFFs from a folder into XYZ-Files                         *
 *   Nicole Kamp                                                           *
 *   niki.kamp@gmail.com                                                   *
 *   October 2020                                                          *
