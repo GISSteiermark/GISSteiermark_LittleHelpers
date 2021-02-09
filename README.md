@@ -1,6 +1,8 @@
 # GISSteiermark_LittleHelpers
 for QGIS
 
+!!! Mistakes and errors reserved !!!
+
 Tool 1: Convert GeoTIFFs from a folder into XYZ-files 
 
 Tool 2: Delete NoData-values in XYZ-files 
