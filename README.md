@@ -1,5 +1,5 @@
 # GISSteiermark_LittleHelpers
-for QGIS
+for QGIS 3.x
 
 !!! Mistakes and errors reserved !!!
 
