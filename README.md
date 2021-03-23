@@ -13,4 +13,9 @@ Tool 4: Change the separator in XYZ-files
 
 Tool 5: Convert GeoTIFFs from a folder into ASC-files
 
-Tool 6: Create TFWs for GeoTIFFs
+23.03.2021
+24.Tool 6: Create TFWs for GeoTIFFs
+
+Detailed information can be found here:
+https://www.landesentwicklung.steiermark.at/cms/beitrag/12803182/142970647/
+
