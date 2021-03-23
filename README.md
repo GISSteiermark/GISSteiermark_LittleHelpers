@@ -11,4 +11,6 @@ Tool 3: Change the decimal separator in XYZ-files
 
 Tool 4: Change the separator in XYZ-files
 
-Tool 5: Convert GeoTIFFs from a folder into ASC-files 
+Tool 5: Convert GeoTIFFs from a folder into ASC-files
+
+Tool 6: Create TFWs for GeoTIFFs
