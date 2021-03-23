@@ -5,6 +5,9 @@ for QGIS 3.x
 
 Tool 1: Convert GeoTIFFs from a folder into XYZ-files 
 
+
+Februara 2021:
+
 Tool 2: Delete NoData-values in XYZ-files 
 
 Tool 3: Change the decimal separator in XYZ-files
@@ -13,8 +16,10 @@ Tool 4: Change the separator in XYZ-files
 
 Tool 5: Convert GeoTIFFs from a folder into ASC-files
 
-23.03.2021
-24.Tool 6: Create TFWs for GeoTIFFs
+
+March 2021:
+
+Tool 6: Create TFWs for GeoTIFFs
 
 Detailed information can be found here:
 https://www.landesentwicklung.steiermark.at/cms/beitrag/12803182/142970647/
