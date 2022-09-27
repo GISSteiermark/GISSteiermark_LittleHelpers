@@ -1,14 +1,14 @@
 # GISSteiermark_LittleHelpers
-for QGIS 3.x
+<b>for QGIS 3.x</b>
 
-!!! Mistakes and errors reserved !!!
+!!! Mistakes and errors reserved !!!<br><br>
 
-November 2020:
+<b>November 2020:</b>
 
-  Tool 1: Convert GeoTIFFs from a folder into XYZ-files 
+  Tool 1: Convert GeoTIFFs from a folder into XYZ-files<br><br> 
 
 
-February 2021:
+<b>February 2021:</b>
 
   Tool 2: Delete NoData-values in XYZ-files 
 
@@ -16,16 +16,16 @@ February 2021:
 
   Tool 4: Change the separator in XYZ-files
 
-  Tool 5: Convert GeoTIFFs from a folder into ASC-files
+  Tool 5: Convert GeoTIFFs from a folder into ASC-files<br><br>
 
 
-March 2021:
+<b>March 2021:</b>
 
-  Tool 6: Create TFWs for GeoTIFFs
+  Tool 6: Create TFWs for GeoTIFFs<br><br>
  
 
-September 2022:
-  Tools 1 - 6 upgraded to QGIS-Version 3.22.6-Białowieża     
+<b>September 2022:</b>
+  Tools 1 - 6 upgraded to QGIS-Version 3.22.6-Białowieża<br><br>    
   
 
 Detailed information can be found here:
