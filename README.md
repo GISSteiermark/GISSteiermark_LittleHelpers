@@ -22,6 +22,10 @@ February 2021:
 March 2021:
 
   Tool 6: Create TFWs for GeoTIFFs
+ 
+
+September 2022:
+  Tools 1 - 6 upgraded to QGIS-Version 3.22.6-Białowieża     
   
 
 Detailed information can be found here:
